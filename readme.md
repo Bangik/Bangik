@@ -6,6 +6,8 @@ Saya seorang mahasiswa **Teknik Informatika** di **Politeknik Negeri Jember**
 
 Jika kamu tertarik, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/achmad-dinofaldi-firmansyah-3b4a69217/)ku ya.
 
+Kunjungi juga portofolioku [disini](https://bangik.github.io/).
+
 <p align="left">
 <a href="https://github.com/Bangik">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bangik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
