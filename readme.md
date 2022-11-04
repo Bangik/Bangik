@@ -15,6 +15,8 @@ Kunjungi juga portofolioku [disini](https://bangik.github.io/).
 </a>
 </p>
 
+[![@bangik's Holopin board](https://holopin.me/bangik)](https://holopin.io/@bangik)
+
 <!--
 **Bangik/Bangik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
