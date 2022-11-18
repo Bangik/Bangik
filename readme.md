@@ -35,7 +35,7 @@ I'm a Final Year BCS Student in State Polytechnic Jember Indonesia and Managemen
 
 [![@bangik's Holopin board](https://holopin.me/bangik)](https://holopin.io/@bangik)
 
-[![](https://visitcount.itsvg.in/api?id=Bangik&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Bangik&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **Bangik/Bangik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
