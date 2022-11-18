@@ -19,19 +19,17 @@ I'm a Final Year BCS Student in State Polytechnic Jember Indonesia and Managemen
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bangik&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bangik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangik&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bangik&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<!--<p align="left">
+<p align="left">
 <a href="https://github.com/Bangik">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bangik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bangik&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p> -->
+</p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bangik&theme=algolia&hide_border=false)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bangik&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 [![@bangik's Holopin board](https://holopin.me/bangik)](https://holopin.io/@bangik)
 
