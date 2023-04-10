@@ -30,7 +30,6 @@
 ## 🎓 Credly
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-[![Update badges](https://github.com/Bangik/Bangik/actions/workflows/update-badges.yml/badge.svg)](https://github.com/Bangik/Bangik/actions/workflows/update-badges.yml)
 
 ![](https://komarev.com/ghpvc/?username=Bangik)
 
