@@ -29,6 +29,7 @@
 
 ## 🎓 Credly
 <!--START_SECTION:badges-->
+[![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/f400f3d1-759f-43a0-a025-86ce7fc6852c "Python Essentials 1")
 [![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/110x110/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](http://www.credly.com/badges/8a56d5e8-90d9-44ff-808d-44d8d614e83b "AWS Academy Graduate - AWS Academy Cloud Architecting")
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/99762c9a-8cbc-43e4-97f9-05396a277912 "AWS Academy Graduate - AWS Academy Cloud Foundations")
 <!--END_SECTION:badges-->
