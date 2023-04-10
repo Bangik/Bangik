@@ -1,8 +1,6 @@
 ## 👋 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=1500&lines=I'm+a+Final+Year+BCS+Student+in+Management+%26+Science+Universiti+Malaysia+and+State+Polytechnic+Jember+Indonesia)](https://git.io/typing-svg)
-
-             
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=1500&lines=I'm+a+Final+Year+BCS+Student+in+Management+%26+Science+University+Malaysia+and+State+Polytechnic+Jember+Indonesia)](https://git.io/typing-svg)
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/novaldi.firmansyah)
@@ -28,6 +26,10 @@
 
 ## 📌 Holopin
 [![@bangik's Holopin board](https://holopin.me/bangik)](https://holopin.io/@bangik)
+
+## 🎓 Credly
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ![](https://komarev.com/ghpvc/?username=Bangik)
 
