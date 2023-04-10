@@ -29,6 +29,8 @@
 
 ## 🎓 Credly
 <!--START_SECTION:badges-->
+[![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/110x110/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](http://www.credly.com/badges/8a56d5e8-90d9-44ff-808d-44d8d614e83b "AWS Academy Graduate - AWS Academy Cloud Architecting")
+[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/99762c9a-8cbc-43e4-97f9-05396a277912 "AWS Academy Graduate - AWS Academy Cloud Foundations")
 <!--END_SECTION:badges-->
 
 ![](https://komarev.com/ghpvc/?username=Bangik)
