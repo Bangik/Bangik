@@ -21,6 +21,12 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bangik&theme=algolia&hide_border=false)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bangik&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=4)
 
