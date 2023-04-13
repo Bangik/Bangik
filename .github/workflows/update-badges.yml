@@ -11,3 +11,12 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  make-sneak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snek_dark.svg?palette=github-dark&color_snake=#7878FF
+            dist/snek_light.svg?palette=github-light&color_snake=#5050FF
