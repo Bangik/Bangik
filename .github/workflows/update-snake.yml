@@ -19,6 +19,6 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          outputs: snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
