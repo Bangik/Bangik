@@ -1,4 +1,4 @@
-name: Update badges and contributor snake
+name: Update creadly badges
 
 on:
   workflow_dispatch:
