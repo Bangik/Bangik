@@ -53,7 +53,6 @@ I am a fresh graduate from Informatics Engineering, State Polytechnic Jember Ind
 ## 🎓 Credly
 <!--START_SECTION:badges-->
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/a3cf34a5-c19e-4335-aad1-35a45f93f059 "AWS Cloud Quest: Cloud Practitioner")
-[![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](http://www.credly.com/badges/f51b1927-0b34-4d11-8991-3e894b35e05d "Introduction to Data Science")
 [![Python Essentials 2](https://images.credly.com/size/110x110/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png)](http://www.credly.com/badges/029abf79-fd1f-464d-8f88-8b535abfd4e0 "Python Essentials 2")
 [![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/f400f3d1-759f-43a0-a025-86ce7fc6852c "Python Essentials 1")
 [![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/110x110/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](http://www.credly.com/badges/8a56d5e8-90d9-44ff-808d-44d8d614e83b "AWS Academy Graduate - AWS Academy Cloud Architecting")
