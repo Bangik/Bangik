@@ -52,6 +52,7 @@ I am a fresh graduate from Informatics Engineering, State Polytechnic Jember Ind
 
 ## 🎓 Credly
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/110x110/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/c5c6706f-3c67-4a3a-a7ef-8439ad65a742 "AWS Knowledge: Cloud Essentials")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/a3cf34a5-c19e-4335-aad1-35a45f93f059 "AWS Cloud Quest: Cloud Practitioner")
 [![Python Essentials 2](https://images.credly.com/size/110x110/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png)](http://www.credly.com/badges/029abf79-fd1f-464d-8f88-8b535abfd4e0 "Python Essentials 2")
 [![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/f400f3d1-759f-43a0-a025-86ce7fc6852c "Python Essentials 1")
